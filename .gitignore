@@ -11,3 +11,5 @@
 
 pkg/
 src/
+__pycache__/
+*.egg-info/

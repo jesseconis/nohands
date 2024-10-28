@@ -1,0 +1,11 @@
+[author]
+name = "Jesse C"
+email = "me@jesseconis.io"
+
+[[watch_paths]]
+path = "~/.config/nvim"
+git_repo = "~/.config/backup/nvim"
+
+[[watch_paths]]
+path = "~/.config/kitty"
+git_repo = "~/.config/backup/kitty"
